@@ -11,5 +11,5 @@ my aim for this project is being creative, functional and readable.
 
 <h3> Screen GIF</h3>
 
-![](restaurant.gif)
+![](restaurant-screen.gif)
 
